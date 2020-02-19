@@ -2,7 +2,7 @@
 
 
 import noneAvatar from '../images/User.png';
-const teamsContent = document.getElementsByClassName('teamsContent')[0];
+const teamsContent = document.getElementsByClassName('userCards')[0];
 
 const linksMap = new Map();
 linksMap.set('facebook.com', 'fab fa-facebook-f');
@@ -11,7 +11,7 @@ linksMap.set('linkedin.com', 'fab fa-linkedin-in');
 linksMap.set('google.com', 'fab fa-google-plus-g');
 linksMap.set('reddit.com', 'fas fa-dribble');
 
-fetch('../users.json')
+fetch('/users.json')
     .then(response => response.json())
     .then(teams => {
         teams.forEach((team) => {

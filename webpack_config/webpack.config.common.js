@@ -18,6 +18,10 @@ const config = {
                              },
                              {
                                from: '../src/assets/fonts', to: '../build/assets/fonts',
+                             }
+                             ,
+                             {
+                               from: '../src/users.json', to: '../build/users.json',
                              }] ),
     new HtmlWebpackPlugin( {
                              template: 'index.html',
