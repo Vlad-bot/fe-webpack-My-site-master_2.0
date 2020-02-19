@@ -1,0 +1,89 @@
+@import "./break_points";
+@import "./theme";
+@import "./grid";
+
+
+
+
+.section {
+
+  padding: 100px 15%;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Raleway', sans-serif;
+
+  max-height: content-box;
+
+
+}
+.userCards{
+  display: flex;
+  flex-direction: row;
+
+  height: auto;
+  padding: 20px 35px;
+  margin-bottom: 50px;
+}
+.social-icons.li.a{
+  display: block;
+  border: 2px solid white;
+  border-radius: 2px;
+  min-width: 40px;
+  max-height: 40px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  a, a:active, a:focus, a:visited {
+    color: gray;
+    text-decoration: none;
+
+  }
+  a:hover{
+    background-color: red;
+  }
+
+  }
+.person{
+  padding: 20px 35px;
+}
+.social-icons{
+  display: inline-block;
+
+  li{
+    display: inline-block;
+  }
+}
+.person-content {
+  position: relative;
+  text-align: left;
+  h4{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    color: #2d3033;
+  }
+  h5 {
+    margin: 10px 0 20px;
+    color: #e84545;
+    font-size: 16px;
+    font-weight: 400;
+
+  }
+
+  p {
+
+    margin: 0 0 10px;
+    font-size: 15px;
+    line-height: 22.4px;
+    color: #6c7279;
+
+  }
+}
+
+
+
+
+
+
+

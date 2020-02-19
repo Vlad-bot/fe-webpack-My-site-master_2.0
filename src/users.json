@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Ruth Wood",
+    "teamRole": "FOUNDER, CEO",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "avatar": "./assets/images/team-1.jpg",
+    "noneAvatar": "./assets/images/user.png",
+    "contacts": [
+      "https://facebook.com",
+      "https://twitter.com",
+      "https://linkedin.com",
+      "https://google.com",
+      "https://dribble.com"
+    ]
+  },
+  {
+    "name": "Timothy Reed",
+    "teamRole": "CO-FOUNDER, DEVELOPER",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "userAvatar": "./assets/images/team-2.jpg",
+    "noneAvatar": "./assets/images/user.png",
+    "contacts": [
+      "https://facebook.com",
+      "https://twitter.com",
+      "https://linkedin.com",
+      "https://google.com",
+      "https://dribble.com"
+    ]
+  },
+  {
+    "name": "Victoria Valdez",
+    "teamRole": "FOUNDER, CEO",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "userAvatar": "./assets/images/team-3.jpg",
+    "noneAvatar": "./assets/images/user.png",
+    "contacts": [
+      "https://facebook.com",
+      "https://twitter.com",
+      "https://linkedin.com",
+      "https://google.com",
+      "https://dribble.com"
+    ]
+  },
+  {
+    "name": "Beverly Little",
+    "teamRole": "DATA SCIENTIST",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "userAvatar": "./assets/images/team-4.jpg",
+    "noneAvatar": "./assets/images/user.png",
+    "contacts": [
+      "https://facebook.com",
+      "https://twitter.com",
+      "https://linkedin.com",
+      "https://google.com",
+      "https://dribble.com"
+    ]
+  }
+]

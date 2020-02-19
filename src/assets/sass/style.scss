@@ -1,0 +1,19 @@
+$mobile-end: 568px;
+$tablet-end: 768px;
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-height: 100vh;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+a:hover, a:focus{
+  transition: background-color, color, 0.5s;
+}
